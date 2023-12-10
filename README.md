@@ -1,6 +1,6 @@
 # Tella
 
-![](https://user-images.githubusercontent.com/39876629/103476491-9d870880-4df9-11eb-9961-98015b19968c.png)
+![](img/logo/Oasis-Logo.png)
 
 Tella, A Hugo theme for Companies.
 
